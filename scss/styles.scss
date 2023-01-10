@@ -397,6 +397,17 @@ footer {
     z-index: 1;
 }
 
+#nec {
+    position: relative;
+    height: 100vh;
+    min-height: 200px;
+    max-height: 432px;
+    background: url(../images/nec.jpeg);
+    background-size: cover;
+    padding: 15px;
+    overflow: hidden;
+}
+
 #lead-down {
     position: absolute;
     left: 0;
