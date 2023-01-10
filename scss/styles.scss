@@ -347,9 +347,11 @@ footer {
 
 #lead {
     position: relative;
-    height: 100vh;
-    min-height: 300px;
-    max-height: 648px;
+    height: 25vh;
+    min-height: 100px;
+    max-height: 216px;
+    max-width: 100%;
+    height: auto;
     background: url(../images/Team.jpg);
     background-size: cover;
     padding: 15px;
