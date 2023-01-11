@@ -346,7 +346,7 @@ footer {
 */
 
 #lead {
-    position: relative;
+    position: left;
     height: 25vh;
     min-height: 100px;
     max-height: 216px;
@@ -364,7 +364,7 @@ footer {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    text-align: center;
+    text-align: right;
 
     h1, h2 {
         margin: 0;
