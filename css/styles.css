@@ -138,6 +138,13 @@ footer{
     margin:0;
     color:#74808a
 }
+.icon {
+    background: 'images/wildfire.jpeg';
+    height: 16px;
+    width: 16px;
+    display: block;
+    /* Other styles here */
+  }
 .top{
     text-align:center
 }
