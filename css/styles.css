@@ -625,10 +625,7 @@ footer{
     cursor: pointer;
 }
 
-.recommendation-preview {
-    display: none;
-    text-align: left;
-}
+
 
 .hidden {
     display: none;
