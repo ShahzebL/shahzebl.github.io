@@ -505,6 +505,26 @@ footer {
 
 
 }
+#references {
+    padding: 75px 15px;
+    border-bottom: 1px solid $border;
+
+    h3 {
+        color: $heading;
+    }
+
+    p {
+        color: $text;
+        margin: 0;
+    }
+
+    li {
+        color: $text;
+        margin: 0;
+    }
+
+
+}
 
 /*
     --------------------------------
@@ -950,6 +970,19 @@ footer {
         }
     }
     #recommendations {
+        text-align: center;
+
+        p {
+            text-align: left;
+        }
+        li {
+            text-align: left;
+        }
+        h3 {
+            text-align: left;
+        }
+    }
+    #references {
         text-align: center;
 
         p {

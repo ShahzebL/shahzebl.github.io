@@ -345,6 +345,22 @@ footer{
     margin:0
 }
 
+#references{
+    padding:75px 15px;
+    border-bottom:1px solid #dcd9d9
+}
+#references h3{
+    color:#374054
+}
+#references p{
+    color:#74808a;
+    margin:0
+}
+#references li{
+    color:#74808a;
+    margin:0
+}
+
 #experience{
     padding:50px 15px;
     text-align:center;
